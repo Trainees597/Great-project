@@ -127,9 +127,9 @@ git rm和直接删除的区别在于git rm会将此文件的操作记录删除�
 
 
 
-![1](C:\Users\Administrator\Desktop\readme\1.jpg)
+![1](C:\Users\Administrator\Desktop\readme\redeme\1.jpg)
 
-![2](C:\Users\Administrator\Desktop\readme\2.jpg)
+![2](C:\Users\Administrator\Desktop\readme\redeme\2.jpg)
 
 （3）**ssh -T git@github.com**   #验证key，根据提示输入yes，添加为信任主机
 
@@ -188,7 +188,7 @@ github  git@github.com:**xxx**/LearnGit.git (push)
 
 这样一来，本地库就可以同时与多个远程库互相同步：
 
-![3](C:\Users\Administrator\Desktop\readme\3.jpg)
+![3](C:\Users\Administrator\Desktop\readme\redeme\3.jpg)
 
 ###### 3.查看远程仓库及传输协议
 
