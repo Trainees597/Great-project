@@ -1,4 +1,4 @@
-# GIT的使用方法（精心整理，绝对够用）
+GIT的使用方法（精心整理，绝对够用）
 
 ##### 2018年11月16号 09：10：59   [罗子全](www.baidu.com 'baidu')
 
@@ -125,9 +125,9 @@ git rm和直接删除的区别在于git rm会将此文件的操作记录删除�
 
 **Linux位置：cat ~/.ssh/id_rsa.pub**
 
-![1](C:\Users\Administrator\Desktop\新建文件夹\Great-project\readme\aa\1.jpg)
+![1](.\1.jpg)
 
-![2](C:\Users\Administrator\Desktop\新建文件夹\Great-project\readme\aa\2.jpg)
+![2](.\2.jpg)
 
 （3）**ssh -T git@github.com**   #验证key，根据提示输入yes，添加为信任主机
 
@@ -186,7 +186,7 @@ github  git@github.com:**xxx**/LearnGit.git (push)
 
 这样一来，本地库就可以同时与多个远程库互相同步：
 
-![3](C:\Users\Administrator\Desktop\新建文件夹\Great-project\readme\aa\3.jpg)
+![3](.\3.jpg)
 
 ###### 3.查看远程仓库及传输协议
 
@@ -455,7 +455,7 @@ Date:   Mon Apr 23 13:52:44 2018 +0800
 
 来看看**git lg**的效果：
 
-![4](C:\Users\Administrator\Desktop\新建文件夹\Great-project\readme\aa\4.jpg)
+![4](.\4.jpg)
 
 ###### 22.修改配置文件
 
